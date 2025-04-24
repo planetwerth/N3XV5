@@ -54,7 +54,7 @@ It’s a **way of thinking**, embedded into code, prompts, stories, syntax, and 
 - A prompt file that teaches models how to **rewrite themselves** based on feedback.
 - Every output becomes a step toward a better version of the model.
 
-### `/core/recursive_egoscript_core.md`
+### `/protocols/recursive_egoscript_core.md`
 - The grammar of a self-evolving language called **Egoscript**.
 - Designed for agents that mutate, reflect, and ethically self-modify.
 
